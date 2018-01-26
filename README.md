@@ -1,7 +1,6 @@
-Welcome to the Glitch BETA
+API basejump: Timestamp Microservice
 =========================
 
-PI basejump: Timestamp Microservice
 User stories:
 
 I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
